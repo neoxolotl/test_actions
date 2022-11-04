@@ -4,7 +4,7 @@ inputs:
   who-to-greet: # id of input 
     description: 'Who regarts' 
     required: true
-    default: 'World' 
+    default: '....... friends' 
 outputs: 
   time: # id of the output 
     description: 'The date that meet you' 
